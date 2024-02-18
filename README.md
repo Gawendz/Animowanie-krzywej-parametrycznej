@@ -1,0 +1,1 @@
+# Animowanie-krzywej-parametrycznej
